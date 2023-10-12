@@ -6,7 +6,7 @@ CRUD APIs using NodeJs (Framework : Express Js)
 #### Installation
 ---
   
-`npm install`
+`npm install`  
 `npm start`
   
 #### API Usage / Routes
@@ -21,7 +21,7 @@ DELETE : _localhost:3000/api/tasks/:id_
 > JSON Data structure (POST request)
 
 - Tasks Model  
-
+  
 ```JSON
 { 
 "taskTitle": "UI Development",
