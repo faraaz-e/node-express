@@ -12,11 +12,11 @@ CRUD APIs using NodeJs (Framework : Express Js)
 #### API Usage / Routes
 ---
   
-GET (all tasks) : _localhost:3000/api/tasks_
-GET (by task id) : _localhost:3000/api/tasks/:id_
-POST : _localhost:3000/api/tasks_
-PATCH : _localhost:3000/api/tasks/:id_
-DELETE : _localhost:3000/api/tasks/:id_
+GET (all tasks) : _localhost:3000/api/tasks_  
+GET (by task id) : _localhost:3000/api/tasks/:id_  
+POST : _localhost:3000/api/tasks_  
+PATCH : _localhost:3000/api/tasks/:id_  
+DELETE : _localhost:3000/api/tasks/:id_  
 
 > JSON Data structure (POST request)
 
