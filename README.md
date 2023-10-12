@@ -2,13 +2,13 @@
 
 ---
 
-CRUD APIs using NodeJs (Framework : Express Js)
+CRUD APIs using NodeJs (Framework : Express Js)  
 
 #### Installation
 
 ---
 
-`npm install`
+`npm install`  
 `npm start`
 
 #### API Usage / Routes
@@ -17,19 +17,19 @@ CRUD APIs using NodeJs (Framework : Express Js)
 
 - Tasks
 
-GET (all tasks) : _localhost:3000/api/tasks_
-GET (by task id) : _localhost:3000/api/tasks/:id_
-POST : _localhost:3000/api/tasks_
-PATCH : _localhost:3000/api/tasks/:id_
-DELETE : _localhost:3000/api/tasks/:id_
+GET (all tasks) : _localhost:3000/api/tasks_  
+GET (by task id) : _localhost:3000/api/tasks/:id_  
+POST : _localhost:3000/api/tasks_  
+PATCH : _localhost:3000/api/tasks/:id_  
+DELETE : _localhost:3000/api/tasks/:id_  
 
 - Users
 
-GET (all users) : _localhost:3000/api/users_
-GET (by users id) : _localhost:3000/api/users/:id_
-POST : _localhost:3000/api/users_
-PATCH : _localhost:3000/api/users/:id_
-DELETE : _localhost:3000/api/users/:id_
+GET (all users) : _localhost:3000/api/users_  
+GET (by users id) : _localhost:3000/api/users/:id_  
+POST : _localhost:3000/api/users_  
+PATCH : _localhost:3000/api/users/:id_  
+DELETE : _localhost:3000/api/users/:id_  
   
 
 
