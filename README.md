@@ -1,13 +1,15 @@
 #### REST APIs
-
 ---
 
 CRUD APIs using NodeJs (Framework : Express Js)  
 
-#### Installation
-
+#### Installation  
 ---
-
+1. Download [MongoDB Compass](https://www.mongodb.com/products/tools/compass)  
+2. Create new Database and copy Connection string.
+3. Create collection
+4. Clone this repository and paste MongoDB Connection string to _.env_ file to make connection to Database
+  
 `npm install`  
 `npm start`
 
