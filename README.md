@@ -28,7 +28,7 @@ DELETE : _localhost:3000/api/tasks/:id_
 - Users
 
 GET (all users) : _localhost:3000/api/users_  
-GET (by users id) : _localhost:3000/api/users/:id_  
+GET (by user id) : _localhost:3000/api/users/:id_  
 POST : _localhost:3000/api/users_  
 PATCH : _localhost:3000/api/users/:id_  
 DELETE : _localhost:3000/api/users/:id_  
