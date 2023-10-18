@@ -25,8 +25,8 @@ database.once('connected', () => {
 
 app.use(express.json()) // middleware for parsing incoming request (eg. bodyParser)
 
-app.use('/api', taskRoutes)
-app.use('/api', userRoutes)
+app.use('/api/v1', taskRoutes)
+app.use('/api/v1', userRoutes)
 
 
 const port = process.env.PORT || 3000 //setting environment variable to dynamically assign port by hosting environment
